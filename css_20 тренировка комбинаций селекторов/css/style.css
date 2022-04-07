@@ -1,0 +1,66 @@
+/* div p{
+	color: blueviolet;
+} */
+
+/* div h2{
+	color: blanchedalmond;
+} */
+
+/* #block p{
+	color: cadetblue;
+} */
+/* 
+#block h2{
+	color: chocolate;
+} */
+
+/* .bbb{
+	color: blue;
+} */
+
+/* #block .bbb{
+	color: brown;
+
+} */
+/* 
+p.bbb{
+	color: red
+} */
+
+/* h2.bbb{
+	color: darkcyan;
+} */
+
+/* #block p.bbb{
+	color: blueviolet;
+} */
+/* 
+.bbb, .xxx{
+	color: darkblue;
+} */
+
+/* p.bbb,h2.xxx{
+	color: blueviolet;
+} */
+
+/* #block p.bbb{
+	color: blue;
+}
+#block p.xxx{
+	color: blue;}*/
+
+/* .fff{
+	color: blanchedalmond;
+} */
+
+/* p.fff{
+	color: blueviolet;
+} */
+
+/* .fff .bbb{
+	color: red;
+} */
+
+/* .fff h2.bbb{
+	color: chartreuse;
+} */

@@ -1,0 +1,33 @@
+/* убирает подчеркивание в состояние hover (при наведение курсора не будет подчеркивание) */
+/* a {
+	color: red;
+}
+a:hover {
+	text-decoration: none;
+} */
+
+/* a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+} */
+
+/* при удержанном нажатие на ссылку текст становится красным  */
+/* #block a.zzz {
+	color: red;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+} */
+
+
+
+
+/* при наведение убирает подчеркивание при длительном нажатие убирает подчеркивание и добавляет красный цвет
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+} */

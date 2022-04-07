@@ -1,0 +1,33 @@
+/* .eee {
+	font-size: 20px;
+	
+}
+.zzz {
+	font-size: 30px;
+	
+}
+
+.eee, .zzz{
+	line-height: 1.5;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+ */
+/* Свойство CSS line-height устанавливает величину пространства между строками, например в тексте. В блочных элементах оно указывает минимальную высоту блоков строк внутри элемента. В незамещаемых внутристрочных элементах —указывает высоту, которая используется для вычисления высоты блоков строк. */
+/* CSS Свойство font-size определяет размер шрифта. Это свойство также используется для вычисления размера em , ex и других относительных единиц */
+ .eee {
+	font-size: 20px;
+	
+}
+.zzz {
+	font-size: 30px;
+	
+}
+.ggg {
+	font-size: 35px;
+
+}
+
+.eee, .zzz, .ggg {
+	text-align: center;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}

@@ -1,0 +1,17 @@
+
+
+/* выбрали только те li у которых нет класса (.elem) 
+li:not(.elem){
+	color: blue;
+} */
+
+
+/* выберет все li, кроме первой. */
+/* li:not(:first-child){
+	color: darkgreen;
+} */
+
+/* Напишите селектор, который выберет все li, кроме первой и последней.
+li:not(:first-child,:last-child){
+	color: blueviolet;
+} */

@@ -1,0 +1,14 @@
+/* задал тегу h2 и классу header размер 40px */
+/* задал тегу h3 и классу header размер 30рх */
+
+
+
+.header {
+	color: red;
+}
+h2.header{
+	font-size: 40px;
+}
+h3.header{
+	font-size:30px;
+}

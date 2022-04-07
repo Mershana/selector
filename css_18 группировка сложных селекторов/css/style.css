@@ -1,0 +1,200 @@
+/* h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+h1, h2, h3{
+	text-align: center;
+} */
+
+/* h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: blue;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: red;
+}
+
+h1, h2, h3{
+	text-align: center;
+}
+h2{
+	color: blue;
+}
+
+h3{
+	font-style: 16px;
+	color: red	;
+} */
+/* 
+h1 {
+	text-align: center;
+	color: red;
+}
+h2 {
+	text-align: center;
+	color: red;
+}
+h3 {
+	text-align: center;
+	font-size: 16px;
+	color: red;
+}
+
+h1, h2, h3{
+	text-align: center;
+	color: red;
+}
+
+h3{
+	font-style: 16px;
+} */
+
+/* ul li i {
+	color: red;
+}
+
+p i {
+	color: green;
+} */
+
+/* p b i{
+	color: red;
+} */
+
+/* li > b{
+	color: red;
+} */
+
+/* .odd {
+	color: red;
+}
+.eve{
+	color: green;
+}
+
+.eee{
+	color: red;
+} */
+
+/* .xxx {
+	font-size: 30px;
+} */
+
+/* .red {
+	color: red;
+}
+.green {
+	color: green;
+} */
+
+/* .eee {
+	font-size: 20px;
+
+}
+.zzz {
+	font-size: 30px;
+}
+
+.eee, .zzz {
+	line-height: 1.5;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.eee {
+	font-size: 20px;
+
+}
+.zzz {
+	font-size: 30px;
+	
+}
+.ggg {
+	font-size: 35px;
+	
+}
+
+.eee, .zzz, .ggg{
+	text-align: center;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+} */
+/* 
+h2.header{
+	font-size: 40px;
+	color: red;
+}
+h3.header {
+	font-size: 30px;
+	color: red;
+} */
+
+/* 
+.eee i{
+	color:red;
+} */
+
+/* выбирает класс bbb */
+/* .eee .bbb {
+	color: red;
+} */
+
+/* выбирает заголов h2 в классе .еее */
+/* .eee h2 {
+	color: red;
+} */
+
+/* выбирает все заголовки h2 с классом bbb в классе eee*/
+/* .eee h2.bbb {
+	color: red;
+} */
+
+/* выбирает все абзацы под тегом p с классом bbb в классе eee */
+/* .eee p.bbb {
+	color: red;
+} */
+
+/* выбирает класс с kkk */
+/* .eee .bbb .kkk {
+	color: red;
+} */
+
+/* #elem1{
+	color: red;
+}
+
+#elem2{
+	color: green;
+}
+
+#elem3{
+	color: blue;
+} */
+
+/* обращаюсь к h2 через индивидуальный айди elem */
+/* #elem h2{
+	color: aqua;
+} */
+
+/* выбираю все абзац под классом text через elem */
+/* #elem p.text{
+	color: blueviolet;
+} */
+
+/* выбираю только те тэги li в которых присутствует класс .text и всеп это проходит через id elem */
+/* #elem li.text{
+	color: chartreuse;
+} */
+
+/* выбрал последний класс с eee/zzz/ccc и обратился только к нему, не тронув первый три класса */
+.eee.zzz.ccc{
+	color: darkgoldenrod;
+}

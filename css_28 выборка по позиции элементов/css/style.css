@@ -1,0 +1,79 @@
+
+/* выбрал первый элемент списка и установил красный цвет */
+
+/* li:first-child{
+	color: blue;
+}*/
+
+ /* выбрал последний элемент списка и установил фиолетовый цвет  */
+
+ /* li:last-child{
+	 color: blueviolet;
+ } */
+
+
+ /* выбрал первый и последний элемент списка и установил для первого aqua/ для последнего darkcyan */
+
+ /* li:first-child{
+	 color:aqua ;
+ }
+
+ li:last-child{
+	 color: darkcyan;
+ } */
+
+
+/* селектор:nth-child(число | odd | even | выражение) {
+	
+} */
+
+
+ /* В данном примере мы сделаем синего цвета тот li, который является 3-им потомком своего родителя (3-им внутри ol): */
+
+ /* li:nth-child(3){
+	 color: blue;
+ } */
+
+ /* Сейчас красными сделаем все четные li:/ Сейчас зелеными сделаем все нечетные li: .*/
+ /* li:nth-child(even){
+	 color: red;
+ }
+ li:nth-child(odd){
+	 color: green;
+ } */
+
+/* Сейчас фиолетовым сделаем каждую третью li (начиная с третьей): */
+
+ /* li:nth-child(3n){
+	 color: rebeccapurple;
+ } */
+
+ /* задаю второе число с конца(т.е применится стиль к цифре 4 */
+
+ /* li:nth-last-child(2){
+	 color: red;
+ } */
+
+ /* В данном примере мы сделаем li красного цвета, если он единственный потомок родителя ul: */
+ /* li:only-child {
+	color: red;
+}
+
+ul {
+	margin-bottom: 10px;
+} */
+
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+}
+
+li {
+	border: 1px solid red;
+	list-style-type: circle;
+	color: black;
+	width: 100px;
+	margin-bottom: 10px;
+	empty-cells:show}

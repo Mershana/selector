@@ -1,0 +1,24 @@
+
+/* покрасил весь курсив который находит в тэги li а сам тэг li находится в тэге ul */
+
+/* ul li i{
+	color: red;
+}
+p i{
+color: green;
+} */
+
+/* p b i{
+	color: red;
+}
+p i {
+	color: red;
+} */
+
+li b{
+	color:red;
+}
+b i {
+	color:#000;
+
+}
